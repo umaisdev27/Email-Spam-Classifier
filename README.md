@@ -86,14 +86,6 @@ Steps:
 <img width="845" height="567" src="https://github.com/user-attachments/assets/b71c89d7-4566-4016-9404-711171eb3c13" />  
 
 ---
-
-## 🚀 Future Work  
-- 🔍 Try other classifiers (Logistic Regression, SVM, Random Forest)  
-- 🧠 Deep Learning (LSTM/RNN for sequential text)  
-- 📊 Balance precision & recall better  
-
----
-
 ## ✨ Credits  
 Built with ❤️, Python 🐍, and fueled by 1000+ spam emails promising free Bitcoin 😅.  
 

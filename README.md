@@ -24,8 +24,9 @@
 
 ## 🔍 Example Outputs  
 Spam/Ham Distribution:  
+<div center>
 <img width="486" height="394" src="https://github.com/user-attachments/assets/5e075b49-1848-4dde-b320-fcc79f78d98b" />  
-
+</div>
 Word Cloud:  
 <img width="486" height="500" src="https://github.com/user-attachments/assets/48b154c0-3671-4901-a472-bfd563492c99" />  
  
